@@ -42,4 +42,4 @@ These notes were meticulously taken during my university classes while listening
 - Email: bashiq031@gmail.com
 - LinkedIn: [Muhammad Bilal Ashiq](https://www.linkedin.com/in/bilal-ashiq/)
 
-Feel free to explore the [PDF version of these notes](link-to-your-pdf.pdf) for more detailed content.
+Feel free to explore the [PDF version of these notes]([link-to-your-pdf](https://github.com/bilalashiq3309/Islamic-Study-Handwritten-Notes.pdf) for more detailed content.
